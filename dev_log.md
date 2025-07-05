@@ -48,14 +48,6 @@ This log outlines the development process for the LangGraph MCP Chatbot, includi
 
 ---
 
-## Next Steps (Optional)
-
-- Enhance agent with memory handling or context re-ranking
-- Improve search result formatting
-- Add unit tests and deployment script for production
-
----
-
 ## Tools Used
 
 - LangGraph MCP
