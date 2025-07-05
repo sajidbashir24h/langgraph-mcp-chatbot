@@ -51,7 +51,7 @@ langgraph-mcp-chatbot/
 ### 1. Clone and enter project
 
 ```bash
-git clone https://github.com/your-username/langgraph-mcp-chatbot
+git clone https://github.com/sajidbashir24h/langgraph-mcp-chatbot.git
 cd langgraph-mcp-chatbot
 ```
 
