@@ -3,7 +3,7 @@
 import os
 from dotenv import load_dotenv
 from langchain_core.messages import HumanMessage
-from agent.agent import create_agent_graph  # updated import
+from agent.agent import create_agent_graph  
 
 # Load environment variables
 env_path = os.path.join(os.path.dirname(__file__), ".env")
