@@ -4,7 +4,7 @@ This log outlines the development process for the LangGraph MCP Chatbot, includi
 
 ---
 
-## Day 1: Initial Planning and Setup
+## Step 1: Initial Planning and Setup
 
 - Read and reviewed the challenge requirements.
 - Identified core components: LangGraph, Tavily, OpenAI API.
@@ -13,7 +13,7 @@ This log outlines the development process for the LangGraph MCP Chatbot, includi
 - Created `.gitignore` and `.env` files.
 - Installed required libraries as per project stack.
 
-## Day 2: First Functional Prototype
+## Step 2: First Functional Prototype
 
 - Implemented `main.py` with basic CLI loop.
 - Created `agent.py` to set up LangGraph executor and OpenAI LLM.
@@ -21,7 +21,7 @@ This log outlines the development process for the LangGraph MCP Chatbot, includi
 - Validated API key loading and added error handling.
 - Tested chatbot's basic ability to converse and invoke web search.
 
-## Day 3: Refactor and Modularization
+## Step 3: Refactor and Modularization
 
 - Structured code into a proper Python package under `agent/`.
 - Added `__init__.py` for package recognition.
@@ -29,7 +29,7 @@ This log outlines the development process for the LangGraph MCP Chatbot, includi
 - Verified that CLI chatbot worked with updated import paths.
 - Cleaned and added explanatory comments to complex logic.
 
-## Day 4: Documentation and Streamlit UI
+## Step 4: Documentation and Streamlit UI
 
 - Created a clear and professional `README.md` with setup and run instructions.
 - Drafted this development log.
